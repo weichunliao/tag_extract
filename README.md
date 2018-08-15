@@ -8,5 +8,7 @@
 ## How to execute
 
 change directory to tag_extract
+
 put the input file in the folder `/data`
+
 python3 --in_fname item_storeid_50w.json --out_fname out.csv
